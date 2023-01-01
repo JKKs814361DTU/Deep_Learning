@@ -18,6 +18,7 @@ January 2023
 ## Structure of files
 
 In this folder you can find the following files:
- - The script "main" to train the model for the first approach
- - The script "main2" to train the model for the second approach
+ - The script "main" to train the model for the first approach.
+ - The script "main2" to train the model for the second approach.
  - The script "Visualization" is to show the results of the models used.
+ - The pdf "poster" that is the poster of this project.
